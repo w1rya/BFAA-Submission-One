@@ -36,18 +36,18 @@ class MainActivity : AppCompatActivity() {
         lv_movie.onItemClickListener = AdapterView.OnItemClickListener { _, _, position, _ ->
             Toast.makeText(this@MainActivity, movies[position].title, Toast.LENGTH_SHORT).show()
 
-            val movieList = Movie()
-            movieList.poster = dataPoster.getResourceId(position, -1)
-            movieList.title = dataTitle[position]
-            movieList.overview = dataOverview[position]
-            movieList.score = dataScore[position]
-            movieList.genre = dataGenre[position]
-            movieList.date = dataDate[position]
-            movieList.duration = dataDuration[position]
-            movieList.slogan = dataSlogan[position]
+            val movieDetail = Movie()
+            movieDetail.poster = dataPoster.getResourceId(position, -1)
+            movieDetail.title = dataTitle[position]
+            movieDetail.overview = dataOverview[position]
+            movieDetail.score = dataScore[position]
+            movieDetail.genre = dataGenre[position]
+            movieDetail.date = dataDate[position]
+            movieDetail.duration = dataDuration[position]
+            movieDetail.slogan = dataSlogan[position]
 
             val detailIntent = Intent(this@MainActivity, DetailActivity::class.java)
-            detailIntent.putExtra(DetailActivity.EXTRA_MOVIE, movieList)
+            detailIntent.putExtra(DetailActivity.EXTRA_MOVIE, movieDetail)
             startActivity(detailIntent)
         }
     }
