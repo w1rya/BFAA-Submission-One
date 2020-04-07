@@ -1,0 +1,118 @@
+<resources>
+
+    <string name="app_name">BFAA One</string>
+    <string name="duration">Duration</string>
+    <string name="release_date">Release Date</string>
+    <string name="genre">Genre</string>
+    <string name="user_score">User Score</string>
+    <string name="overview">Overview</string>
+    <string name="title">Title</string>
+    <string name="desc">Desc</string>
+    <string name="slogan">Slogan</string>
+    <string name="poster">Poster</string>
+
+    <string-array name="data_title">
+        <item>Bloodshot</item>
+        <item>Bad Boys for Life</item>
+        <item>Sonic the Hedgehog</item>
+        <item>Jumanji: The Next Level</item>
+        <item>1917</item>
+        <item>Dolittle</item>
+        <item>Knives Out</item>
+        <item>Guns Akimbo</item>
+        <item>The Way Back</item>
+        <item>Resistance</item>
+    </string-array>
+
+    <string-array name="data_poster">
+        <item>@drawable/bloodshot</item>
+        <item>@drawable/badboysforlife</item>
+        <item>@drawable/sonic</item>
+        <item>@drawable/jumanji</item>
+        <item>@drawable/mov1917</item>
+        <item>@drawable/dolittle</item>
+        <item>@drawable/knivesout</item>
+        <item>@drawable/gunsakimbo</item>
+        <item>@drawable/thewayback</item>
+        <item>@drawable/resistance</item>
+    </string-array>
+    
+    <string-array name="data_score">
+        <item>72%</item>
+        <item>71%</item>
+        <item>74%</item>
+        <item>68%</item>
+        <item>79%</item>
+        <item>68%</item>
+        <item>78%</item>
+        <item>64%</item>
+        <item>65%</item>
+        <item>90%</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action, Science Fiction</item>
+        <item>Thriller, Action, Crime</item>
+        <item>Animation, Action, Science Fiction, Comedy, Family</item>
+        <item>Adventure, Comedy, Fantasy</item>
+        <item>War, Drama, Action, Thriller</item>
+        <item>Comedy, Fantasy, Adventure, Family</item>
+        <item>Mystery, Thriller, Comedy</item>
+        <item>Comedy, Action</item>
+        <item>Drama</item>
+        <item>Drama, History</item>
+    </string-array>
+    
+    <string-array name="data_date">
+        <item>03/13/2020</item>
+        <item>01/17/2020</item>
+        <item>02/14/2020</item>
+        <item>12/13/2019</item>
+        <item>01/10/2020</item>
+        <item>01/17/2020</item>
+        <item>11/27/2019</item>
+        <item>02/28/2020</item>
+        <item>03/06/2020</item>
+        <item>03/27/2020</item>
+    </string-array>
+
+    <string-array name="data_duration">
+        <item>1h 50m</item>
+        <item>2h 4m</item>
+        <item>1h 39m</item>
+        <item>2h 3m</item>
+        <item>1h 59m</item>
+        <item>1h 41m</item>
+        <item>2h 11m</item>
+        <item>1h 35m</item>
+        <item>1h 48m</item>
+        <item>2h 0m</item>
+    </string-array>
+
+    <string-array name="data_slogan">
+        <item>Being a superhero is in his blood</item>
+        <item>Ride together. Die together.</item>
+        <item>A Whole New Speed of Hero</item>
+        <item>The Next Level</item>
+        <item>Time is the enemy</item>
+        <item>He is just not a people person.</item>
+        <item>Hell, any of them could have done it.</item>
+        <item>Get loaded</item>
+        <item>Regain and salvation</item>
+        <item>The best way to resist is to survive.</item>
+    </string-array>
+
+    <string-array name="data_overview">
+        <item>After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine—Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there is more to the conspiracy than he thought.</item>
+        <item>Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.</item>
+        <item>Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.</item>
+        <item>As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.</item>
+        <item>At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.</item>
+        <item>After losing his wife seven years earlier, the eccentric Dr. John Dolittle, famed doctor and veterinarian of Queen Victoria’s England, hermits himself away behind the high walls of Dolittle Manor with only his menagerie of exotic animals for company. But when the young queen falls gravely ill, a reluctant Dolittle is forced to set sail on an epic adventure to a mythical island in search of a cure, regaining his wit and courage as he crosses old adversaries and discovers wondrous creatures.</item>
+        <item>When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan\'s dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan\'s untimely death.</item>
+        <item>An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.</item>
+        <item>A former basketball all-star, who has lost his wife and family foundation in a struggle with addiction attempts to regain his soul and salvation by becoming the coach of a disparate ethnically mixed high school basketball team at his alma mater.</item>
+        <item>The story of a group of Jewish Boy Scouts who worked with the French Resistance to save the lives of ten thousand orphans during World War II.</item>
+    </string-array>
+
+</resources>
