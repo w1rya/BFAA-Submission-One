@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.BaseAdapter
 import kotlinx.android.synthetic.main.item_movie.view.*
 
-class MovieAdapter internal constructor(private val context: Context) : BaseAdapter(){
+class MovieAdapter internal constructor(private val context: Context) : BaseAdapter() {
 
     internal var movies = arrayListOf<Movie>()
 
